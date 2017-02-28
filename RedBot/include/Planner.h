@@ -14,6 +14,7 @@ class Planner
 
     private:
         std::string race, buildOrder;
+        int state;
 };
 
 #endif // PLANNER_H
